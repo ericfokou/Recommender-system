@@ -26,7 +26,7 @@ Details on our implementation:
     
 * Predictions are made using the following formula:
 
-    <img src="images/Capture.png">
+    <img src="https://github.com/ericfokou/Recommender-system/blob/master/Images/Capture.PNG">
     
     avec:
 
@@ -55,7 +55,7 @@ Details on our implementation:
 
 * Predictions are made using the following formula:
 
-    <img src="images/Capture1.png">
+    <img src="https://github.com/ericfokou/Recommender-system/blob/master/Images/Capture1.PNG">
     
     avec:
 
