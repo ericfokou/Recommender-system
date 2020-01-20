@@ -1,6 +1,6 @@
 
 
-# Recommendersystem
+# Recommender system
 > This project provides an implementation of **user-based** and **item-based** Collaborative filtering algorithm from scratch.
 
 Here we used the MovieLens movie ratings dataset: [https://grouplens.org/datasets/movielens/]([MovieLens]) .
